@@ -1,5 +1,8 @@
 # Enterprise Infrastructure Telemetry & Observability Pipeline
 
+## Homelab Network Topology
+![Homelab Master Network Topology](https://raw.githubusercontent.com/BLor-SysAdmin/HTC-Network-Administration-Labs/main/homelab-topology-blueprint.png)
+
 ## Executive Architecture Overview
 This production-grade monitoring pipeline establishes continuous infrastructure visibility and time-series resource tracking across a heterogeneous multi-OS network layout. Built leveraging a containerized microservices model, the stack isolates monitoring dependencies, prevents metric storage fragmentation, and provisions real-time metrics for capacity planning and proactive troubleshooting.
 
